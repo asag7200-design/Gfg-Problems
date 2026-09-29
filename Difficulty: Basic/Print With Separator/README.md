@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/print-with-separator/1">Print With Separator</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">You'll be given two strings <strong>a</strong> and <strong>b,</strong> a separator symbol, and you need to print <strong>a</strong> and <strong>b</strong> such that a and b are separated by the separator symbol followed by a new line.</span></p>
+<p><span style="font-size: 14pt;">Given two strings a and b, and a separator symbol separator, print a and b with separator between them, followed by a new line.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input</strong></span>: <span style="font-size: 18px;">a = "Hello", b = "World", separator = "@"
+<strong>Output:</strong> Hello@World
+<strong>Explanation</strong>: a and b are printed with the @ symbol in between.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input</strong></span>: <span style="font-size: 18px;">a = "Geeks", b = "For", separator = "-"
+<strong>Output:</strong> Geeks-For<br><strong>Explanation</strong>: a and b are printed with the - symbol in between.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python-io</code>&nbsp;<code>CPP</code>&nbsp;<code>Java</code>&nbsp;
