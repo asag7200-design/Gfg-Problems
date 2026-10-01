@@ -122,3 +122,16 @@ Problems are practiced from **GeeksforGeeks** for learning and problem-solving p
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+<hr>
+
+
+<!---GeeksForGeeks Tags Start-->
+# GeeksForGeeks Tags
+
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [diagonal-sum-in-matrix](https://github.com/asag7200-design/JAVA-GFG/tree/main/diagonal-sum-in-matrix/) | Basic |
+
+<!---GeeksForGeeks Tags End-->
