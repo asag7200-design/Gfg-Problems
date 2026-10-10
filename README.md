@@ -126,6 +126,7 @@ This project is licensed under the MIT License.
 <hr>
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -134,4 +135,10 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [diagonal-sum-in-matrix](https://github.com/asag7200-design/JAVA-GFG/tree/main/diagonal-sum-in-matrix/) | Basic |
 
+## GeeksForGeeks
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [unknown-problem](https://github.com/asag7200-design/JAVA-GFG/tree/main/unknown-problem/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
