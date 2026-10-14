@@ -129,6 +129,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -142,7 +143,116 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [unknown-problem](https://github.com/asag7200-design/JAVA-GFG/tree/main/unknown-problem/) | Medium |
 
+## Arrays
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Sort An Array Of 0s 1s And 2s
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
 
 
 
+
+
+<hr>
+
+
+<!---GeeksForGeeks Companies Start-->
+# GeeksForGeeks Companies
+
+## Paytm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Flipkart
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Morgan Stanley
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Amazon
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Microsoft
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## OYO Rooms
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Samsung
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Snapdeal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Hike
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## MakeMyTrip
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Ola Cabs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Walmart
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## MAQ Software
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Adobe
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Yatra.com
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## SAP Labs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+## Qualcomm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+
+<!---GeeksForGeeks Companies End-->
