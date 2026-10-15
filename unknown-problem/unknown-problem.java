@@ -1,8 +1,16 @@
 class Solution {
-    public boolean numsGame(int n) {
-        // Code here
-        if(n%2==0)
-            return true;
-        else return false;
+    static boolean isPerfect(int n) {
+        // code here
+              if(n==1)return false;
+int sum=1;
+for(int i=2;i*i<=n;i++){
+    if(n%i==0){
+        sum+=i;
+        if(i!=n/i){
+            sum+=n/i;
+        }
     }
 }
+return sum==n;
+    }
+};
