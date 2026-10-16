@@ -1,16 +1,14 @@
 class Solution {
-    static boolean isPerfect(int n) {
+    static int inSequence(int a, int b, int c) {
         // code here
-              if(n==1)return false;
-int sum=1;
-for(int i=2;i*i<=n;i++){
-    if(n%i==0){
-        sum+=i;
-        if(i!=n/i){
-            sum+=n/i;
-        }
+    int n=a;
+    int i=2;
+    while(n<b){
+    n=a+(i-1)*c;
+    i++;
+    }
+    if(n==b) return 1;
+    return 0; 
+
     }
 }
-return sum==n;
-    }
-};
