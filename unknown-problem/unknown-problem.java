@@ -1,14 +1,13 @@
 class Solution {
-    static int inSequence(int a, int b, int c) {
-        // code here
-    int n=a;
-    int i=2;
-    while(n<b){
-    n=a+(i-1)*c;
-    i++;
-    }
-    if(n==b) return 1;
-    return 0; 
-
+    public int countDigits(int n) {
+        // Code here
+                if (n == 0) return 1;
+        n = Math.abs(n);
+        int count = 0;
+        while (n > 0) {
+            n /= 10;
+            count++;
+        }
+        return count;
     }
 }
