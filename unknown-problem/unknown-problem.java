@@ -1,13 +1,19 @@
 class Solution {
-    public int countDigits(int n) {
-        // Code here
-                if (n == 0) return 1;
-        n = Math.abs(n);
-        int count = 0;
-        while (n > 0) {
-            n /= 10;
-            count++;
+    public int sumOfMatrix(int[][] mat) {
+        // code here
+        
+        int res = 0;
+        
+        for(int i = 0;i < mat.length;i++){
+            
+            for(int j = 0 ;j < mat[i].length;j++){
+                
+                res += mat[i][j];
+            }
+            
         }
-        return count;
+        
+        return res;
+        
     }
 }
