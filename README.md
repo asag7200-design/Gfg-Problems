@@ -136,6 +136,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -169,7 +170,18 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [unknown-problem](https://github.com/asag7200-design/JAVA-GFG/tree/main/unknown-problem/) | Medium |
 
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [stack-operations](https://github.com/asag7200-design/JAVA-GFG/tree/main/stack-operations/) | Basic |
+
+## Stack Data Structure
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [stack-operations](https://github.com/asag7200-design/JAVA-GFG/tree/main/stack-operations/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
