@@ -1,19 +1,17 @@
 class Solution {
-    public int sumOfMatrix(int[][] mat) {
+    public int nCr(int n, int r) {
         // code here
-        
-        int res = 0;
-        
-        for(int i = 0;i < mat.length;i++){
-            
-            for(int j = 0 ;j < mat[i].length;j++){
-                
-                res += mat[i][j];
-            }
-            
-        }
-        
-        return res;
-        
-    }
+      
+if(n < r)return 0;
+       else if(n == r || r == 0)return 1;
+       double j = 1 ;
+       double i = n ;
+       double ans = 1;
+       while(i > n-r){
+            ans = ( (ans * i)/j);
+           i--;
+           j++;
+       }
+       return (int)(ans + 0.5);
 }
+    }
