@@ -1,10 +1,20 @@
 class Solution {
-    void printGfg(int n) {
-        
-        while(n>0)
+    public void printHollowSquare(int n) {
+        // code here
+             for (int i=1 ; i<=n; i++)
         {
-            System.out.print("GFG"+" ");
-            n=n-1;
-    }
+            for (int j=1; j<=n; j++)
+            {
+                if (i==1 || i==n || j==1 || j==n)
+                {
+                    System.out.print("* ");
+                }
+                else
+                {
+                    System.out.print("  ");
+                }
+            }
+            System.out.println();
+        }
     }
 }
