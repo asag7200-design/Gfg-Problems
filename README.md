@@ -140,6 +140,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -183,7 +184,18 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [stack-operations](https://github.com/asag7200-design/JAVA-GFG/tree/main/stack-operations/) | Basic |
 
+## Mathematics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0nth-number-with-odd-digits](https://github.com/asag7200-design/JAVA-GFG/tree/main/0nth-number-with-odd-digits/) | Medium |
+
+## Nth Number Made Up Of Odd Digits Only
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0nth-number-with-odd-digits](https://github.com/asag7200-design/JAVA-GFG/tree/main/0nth-number-with-odd-digits/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
