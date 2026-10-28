@@ -141,6 +141,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -163,6 +164,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
+| [sort-string](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-string/) | Basic |
 
 ## Sort An Array Of 0s 1s And 2s
 | Problem Name | Difficulty |
@@ -194,7 +196,18 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0nth-number-with-odd-digits](https://github.com/asag7200-design/JAVA-GFG/tree/main/0nth-number-with-odd-digits/) | Medium |
 
+## Strings
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-string](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-string/) | Basic |
+
+## Sort String Characters
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-string](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-string/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
