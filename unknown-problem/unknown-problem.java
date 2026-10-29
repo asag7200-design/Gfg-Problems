@@ -1,20 +1,13 @@
 class Solution {
-    public void printHollowSquare(int n) {
+    public boolean divby13(String s) {
         // code here
-             for (int i=1 ; i<=n; i++)
-        {
-            for (int j=1; j<=n; j++)
-            {
-                if (i==1 || i==n || j==1 || j==n)
-                {
-                    System.out.print("* ");
-                }
-                else
-                {
-                    System.out.print("  ");
-                }
-            }
-            System.out.println();
-        }
+    int rem = 0;
+
+       for (int i = 0; i < s.length(); i++) {
+           int digit = s.charAt(i) - '0';
+           rem = (rem * 10 + digit) % 13;
+       }
+
+           return rem == 0;
     }
 }
