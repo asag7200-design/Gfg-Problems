@@ -146,6 +146,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -183,6 +184,7 @@ This project is licensed under the MIT License.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [reverse-using-stack](https://github.com/asag7200-design/JAVA-GFG/tree/main/reverse-using-stack/) | Easy |
 | [stack-operations](https://github.com/asag7200-design/JAVA-GFG/tree/main/stack-operations/) | Basic |
 
 ## Stack Data Structure
@@ -203,6 +205,7 @@ This project is licensed under the MIT License.
 ## Strings
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [reverse-using-stack](https://github.com/asag7200-design/JAVA-GFG/tree/main/reverse-using-stack/) | Easy |
 | [sort-string](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-string/) | Basic |
 
 ## Sort String Characters
@@ -210,7 +213,18 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [sort-string](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-string/) | Basic |
 
+## Data Structures
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-using-stack](https://github.com/asag7200-design/JAVA-GFG/tree/main/reverse-using-stack/) | Easy |
+
+## Stack Set 3 Reverse String Using Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-using-stack](https://github.com/asag7200-design/JAVA-GFG/tree/main/reverse-using-stack/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
