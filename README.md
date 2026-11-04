@@ -149,6 +149,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -225,7 +226,38 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [reverse-using-stack](https://github.com/asag7200-design/JAVA-GFG/tree/main/reverse-using-stack/) | Easy |
 
+## CPP
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [print-with-new-line](https://github.com/asag7200-design/JAVA-GFG/tree/main/print-with-new-line/) | Basic |
+
+## Java
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [print-with-new-line](https://github.com/asag7200-design/JAVA-GFG/tree/main/print-with-new-line/) | Basic |
+
+## python
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [print-with-new-line](https://github.com/asag7200-design/JAVA-GFG/tree/main/print-with-new-line/) | Basic |
+
+## JavaScript
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [print-with-new-line](https://github.com/asag7200-design/JAVA-GFG/tree/main/print-with-new-line/) | Basic |
+
+## C#
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [print-with-new-line](https://github.com/asag7200-design/JAVA-GFG/tree/main/print-with-new-line/) | Basic |
+
+## Print With New Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [print-with-new-line](https://github.com/asag7200-design/JAVA-GFG/tree/main/print-with-new-line/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
