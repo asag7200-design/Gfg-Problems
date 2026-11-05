@@ -1,7 +1,30 @@
+/*
+class Node{
+    int data;
+    Node next;
+
+    Node(int x){
+        data = x;
+        next = null;
+    }
+}
+*/
 class Solution {
-    int returnValueFunction(int n) {
+    public Node insertAtEnd(Node head, int x) {
         // code here
-        int ans = 2*n;
-       return ans;
+            Node node = new Node(x);
+
+if (head == null) {
+    return node;
+}
+
+Node n = head;
+
+while (n.next != null) {
+    n = n.next;
+}
+
+n.next = node;
+return head;   
     }
 }
