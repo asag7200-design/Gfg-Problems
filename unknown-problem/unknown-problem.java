@@ -1,15 +1,14 @@
 class Solution {
-    public static boolean areAnagrams(String s1, String s2) {
+    public double getAngle(String s) {
         // code here
-                char ch[] = s1.toCharArray();
-        char ch2[] = s2.toCharArray();
-        Arrays.sort(ch);
-        Arrays.sort(ch2);
-      String result1 = new String(ch);
-      String result2 = new String(ch2);
-      if(result1.equals(result2)){
-          return true;
-      }
-      return false;
+                String sp[]=s.split(":",2);
+        int h=Integer.parseInt(sp[0])%12;
+        int m=Integer.parseInt(sp[1]);
+        double ha=h*30+0.5*m;
+        double ma=6*m;
+        double a=Math.abs(ha-ma);
+        if(a<360-a)
+            return a;
+        return 360-a;
     }
 }
