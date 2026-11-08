@@ -1,22 +1,14 @@
 class Solution {
-    public String removeSpaces(String s) {
+    public boolean isPowerofTwo(int n) {
         // code here
-        int n = s.length();
- 
-StringBuilder s1 = new StringBuilder();
- 
-for (int i = 0; i<n; i++) {
- 
-if (s.charAt(i) == ' ') {
- 
-continue;
- 
-}
-s1.append(s.charAt(i));
- 
-}
- 
-return s1.toString();
+         if(n == 0) return false;
+        while(n > 1){
+            if(n % 2 != 0){
+                return false;
+            }
+            n = n / 2;
+        }
+        return true;
 
     }
 }
