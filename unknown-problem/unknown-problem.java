@@ -1,14 +1,11 @@
 class Solution {
-    public boolean isPowerofTwo(int n) {
+    public boolean isBinary(String s) {
         // code here
-         if(n == 0) return false;
-        while(n > 1){
-            if(n % 2 != 0){
+                for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) != '0' && s.charAt(i) != '1') {
                 return false;
             }
-            n = n / 2;
         }
         return true;
-
     }
 }
