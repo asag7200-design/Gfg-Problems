@@ -155,6 +155,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -213,6 +214,7 @@ This project is licensed under the MIT License.
 ## Strings
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [remove-spaces](https://github.com/asag7200-design/Gfg-Problems/tree/main/remove-spaces/) | Basic |
 | [reverse-using-stack](https://github.com/asag7200-design/JAVA-GFG/tree/main/reverse-using-stack/) | Easy |
 | [sort-string](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-string/) | Basic |
 
@@ -261,6 +263,11 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [print-with-new-line](https://github.com/asag7200-design/JAVA-GFG/tree/main/print-with-new-line/) | Basic |
 
+## Remove Spaces From A Given String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [remove-spaces](https://github.com/asag7200-design/Gfg-Problems/tree/main/remove-spaces/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -292,7 +299,9 @@ This project is licensed under the MIT License.
 
 
 
+
 <hr>
+
 
 
 
@@ -377,6 +386,7 @@ This project is licensed under the MIT License.
 ## SAP Labs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [remove-spaces](https://github.com/asag7200-design/Gfg-Problems/tree/main/remove-spaces/) | Basic |
 | [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
 
 ## Qualcomm
@@ -385,4 +395,5 @@ This project is licensed under the MIT License.
 | [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
+
 
