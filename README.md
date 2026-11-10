@@ -158,6 +158,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -174,6 +175,7 @@ This project is licensed under the MIT License.
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [array-leaders](https://github.com/asag7200-design/Gfg-Problems/tree/main/array-leaders/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
 
 ## Sorting
@@ -270,7 +272,13 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [remove-spaces](https://github.com/asag7200-design/Gfg-Problems/tree/main/remove-spaces/) | Basic |
 
+## Leaders In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-leaders](https://github.com/asag7200-design/Gfg-Problems/tree/main/array-leaders/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -309,6 +317,7 @@ This project is licensed under the MIT License.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -330,6 +339,7 @@ This project is licensed under the MIT License.
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [array-leaders](https://github.com/asag7200-design/Gfg-Problems/tree/main/array-leaders/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
 
 ## Microsoft
@@ -380,6 +390,7 @@ This project is licensed under the MIT License.
 ## Adobe
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [array-leaders](https://github.com/asag7200-design/Gfg-Problems/tree/main/array-leaders/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
 
 ## Yatra.com
@@ -398,6 +409,12 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [sort-0s-1s-and-2s](https://github.com/asag7200-design/JAVA-GFG/tree/main/sort-0s-1s-and-2s/) | Medium |
 
+## Payu
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-leaders](https://github.com/asag7200-design/Gfg-Problems/tree/main/array-leaders/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
