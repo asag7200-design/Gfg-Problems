@@ -1,11 +1,13 @@
-class Solution {
-    public boolean isBinary(String s) {
+import java.util.Scanner;
+
+class GFG {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+
         // code here
-                for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) != '0' && s.charAt(i) != '1') {
-                return false;
-            }
+            for(int i=1;i<=10;i++){
+            System.out.print(n*i+ " ");
         }
-        return true;
     }
 }
