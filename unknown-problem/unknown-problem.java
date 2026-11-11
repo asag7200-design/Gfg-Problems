@@ -1,13 +1,16 @@
-import java.util.Scanner;
-
-class GFG {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-
+class Solution {
+    static ArrayList<Long> factorialNumbers(long n) {
         // code here
-            for(int i=1;i<=10;i++){
-            System.out.print(n*i+ " ");
+         ArrayList<Long> result = new ArrayList<>();
+        long fact = 1;
+        long i = 1;
+
+        while (fact <= n) {
+            result.add(fact);
+            i++;
+            fact *= i;  
         }
+
+        return result;
     }
 }
